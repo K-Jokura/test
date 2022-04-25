@@ -1,4 +1,5 @@
-tydyverse
+
+library (tidyverse)
 
 logo
 
@@ -12,17 +13,6 @@ logo
 changedFiles()
 
 
-tydyverse
-
-logo
-
-changedFiles()
-
-
-tydyverse
-
-logo
-
-changedFiles()
+tidyverse_logo()
 
 
